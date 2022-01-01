@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+{% link https://dev.to/aneeqakhan/get-your-beverage-with-css-illustration-and-animation-1nf %}
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
