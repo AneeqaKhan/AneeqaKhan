@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/aneeqa-khan-990459135/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
+<a href = 'https://www.linkedin.com/in/aneeqa-khan-990459135/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a>
 <a href = 'https://www.twitter.com/https://twitter.com/Aneeqa_Khan25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/> </a> 
 <a href = 'https://medium.com/@aneeqa-k25'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/> </a> 
 <a href = 'https://www.github.com/AneeqaKhan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/> </a>
