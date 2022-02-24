@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **aneeqa.k25@gmail.com**
 
-https://emotionbadge.onrender.com/emotion/<AneeqaKhan>/<emotion>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aneeqakhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aneeqakhan" height="30" width="40" /></a>
