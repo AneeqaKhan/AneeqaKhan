@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aneeqa_khan25" target="blank"><img src="https://img.shields.io/twitter/follow/aneeqa_khan25?logo=twitter&style=for-the-badge" alt="aneeqa_khan25" /></a> </p>
 
-- 🔭 I’m currently working on [Swished](https://play.google.com/store/apps/details?id=co.uk.swished)
+- 🔭 I’m currently working on [Node JS App](https://github.com/AneeqaKhan/goal-REST-API)
 
 - 🌱 I’m currently learning **Node JS and TypeScript**
 
@@ -29,9 +29,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to upload multiple images to AWS S3 in react-native App - Part 2](https://dev.to/aneeqakhan/how-to-upload-multiple-images-to-aws-s3-in-react-native-app-5g2i)
-- [How to upload multiple images to AWS S3 in react-native App - Part 1](https://dev.to/aneeqakhan/how-to-upload-multiple-images-to-aws-s3-in-react-native-app-3ha8)
-- [Integrating React Native App with Jest](https://dev.to/aneeqakhan/integrating-react-native-app-with-jest-4bac)
+- [How to setup a Node.js server port](https://dev.to/aneeqakhan/how-to-setup-a-nodejs-server-port-25l6)
+- [Expanding cards with CSS](https://dev.to/aneeqakhan/expanding-cards-with-css-3n39)
+- [Responsive Images for web](https://dev.to/aneeqakhan/responsive-images-for-web-2n9g)
 - [Get your beverage with CSS illustration and animation](https://dev.to/aneeqakhan/get-your-beverage-with-css-illustration-and-animation-1nf)
 <!-- BLOG-POST-LIST:END -->
 
