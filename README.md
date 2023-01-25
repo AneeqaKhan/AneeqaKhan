@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeqakhan&label=Profile%20views&color=0e75b6&style=flat" alt="aneeqakhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aneeqa_khan25" target="blank"><img src="https://img.shields.io/twitter/follow/aneeqa_khan25?logo=twitter&style=for-the-badge" alt="aneeqa_khan25" /></a> </p>
-
 - 🔭 I’m currently working on [Node JS App](https://github.com/AneeqaKhan/goal-REST-API)
 
 - 🌱 I’m currently learning **Node JS and TypeScript**
